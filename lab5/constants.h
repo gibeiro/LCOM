@@ -1,0 +1,12 @@
+#ifndef _CONSTANTES_H_
+#define _CONSTANTES_H_
+
+#define KBD_DEFAULT_HOOK_ID 1
+#define TIMER_DEFAULT_HOOK_ID 1
+#define TIMER1_IRQ 1
+#define VBE_GRAPHIC_MODE 0x105
+#define KBD_ESC_KEY 0x81
+#define DEFAULT_DELAY 5
+#define DEFAULT_TICKS_PER_SECOND 60.0
+
+#endif /*_CONSTANTES_H_*/
